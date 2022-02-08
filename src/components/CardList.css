@@ -1,0 +1,26 @@
+.titulocentral{
+    margin: 0px 30px;
+    padding: 30px 0px 0px 0px;
+    border-bottom: 1px solid grey;
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+
+.contenedor-add{
+    /* background-color: red; */
+    padding: 15px 30px;
+}
+.add-card{
+    display: grid;
+    justify-content: auto;
+    align-items: center;
+    text-align: center;
+    /* font-weight: bold; */
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(22, 49, 97);  
+    border-radius:5px ;
+}

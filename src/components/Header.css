@@ -1,0 +1,79 @@
+.conteiner-header{
+    display: flex;
+    justify-content: space-between;
+    /* padding: 0px; */
+    width: 100%;
+    height: 60px; 
+    background-color: brown;
+    /* text-align: center; */
+}
+.logo{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.titulo{
+    padding: 0px 40px;
+    color: #fff;
+    font-size: 30px;
+    width: 100%;
+    background-color: brown;
+}
+.search{
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin:0px 0px 0px 100px;
+}
+.input-search{
+    padding: 0px 10px;
+    display: block;
+    width: 100%;
+    height: 40px;
+}
+.button{
+    border:1px solid grey;
+    display: block;
+    width: 60px;
+    height: 40px;    
+    background-color: #fff;
+}
+.fa-search{
+    padding: 5px;
+    font-size: 25px;
+    color: grey;
+}
+.users{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    margin: center;
+    padding: 15px;
+}
+.title-favorites{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-right: 10px;
+    color: white;
+}
+.title-users{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+
+    color: white;
+}
+.fromSearch{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2,1fr);
+    width: 600px;
+
+}

@@ -1,0 +1,31 @@
+.card-detail{
+    background-color: #fff;
+    text-align: center;
+    margin: 30px auto;
+    padding: 30px;
+    width: 400px;
+    height: 600px;
+    
+}
+.titulo-detail{
+    margin: 0px 30px;
+    padding: 30px 0px 0px 0px;
+    border-bottom: 1px solid grey;
+}
+.name{
+    font-weight: bold;
+    font-size: 18px;
+    color: brown;
+}
+.data-card{
+    padding: 30px;
+    color:rgb(95, 93, 93);
+}
+.btn-eliminar{
+    font-size: 14px;
+    border:none;
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    background-color: #000;
+}

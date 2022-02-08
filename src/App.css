@@ -1,0 +1,13 @@
+*{
+  box-sizing:border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+  background-color: rgb(233, 231, 231);
+}
+
+/* .App {
+  text-align: center;
+} */
